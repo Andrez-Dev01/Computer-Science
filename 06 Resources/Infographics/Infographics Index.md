@@ -10,4 +10,4 @@
 
 ![[05 - Assembly Worked Example.png]]
 
-![[06 - How Note Linking Works.png]]
+![[06 - Linking Knowledge Network.png]]

@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **JVM**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -16,20 +16,34 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[Java Bytecode]]
 - [[Runtime Stack]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 8 - Advanced Procedures#Optional JVM Connection|Chapter 8 — Optional JVM Connection]]
+- [[Chapter 8 - Advanced Procedures#8.7 Java Bytecodes (Optional Topic)|Chapter 8 — 8.7 Java Bytecodes (Optional Topic)]] (book page 58)
+- [[Chapter 8 - Advanced Procedures#8.7.3 Java Disassembly Examples|Chapter 8 — 8.7.3 Java Disassembly Examples]] (book page 61)
+- [[Chapter 8 - Advanced Procedures#8.7.4 Example: Conditional Branch|Chapter 8 — 8.7.4 Example: Conditional Branch]] (book page 63)
+- [[Chapter 8 - Advanced Procedures#Java Bytecodes|Chapter 8 — Java Bytecodes]] (book page 66)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
 
-## My Example
+### Java source
+```java
+int c = a + b;
+```
 
-_Add your own small example here._
+The Java compiler produces bytecode. The JVM executes/interprets/JIT-compiles bytecode rather than exposing the x86 register model directly.
+
+
+## Database Connections
+
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **JVM** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

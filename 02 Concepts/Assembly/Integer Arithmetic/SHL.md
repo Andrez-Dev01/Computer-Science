@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **SHL**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -16,20 +16,25 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[Carry Flag]]
 - [[Bitwise Multiplication]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 7 - Integer Arithmetic#Shift and Rotate|Chapter 7 — Shift and Rotate]]
+- [[Chapter 7 - Integer Arithmetic#Bitwise Multiplication|Chapter 7 — Bitwise Multiplication]] (book page 5)
+- [[Chapter 7 - Integer Arithmetic#7.2.2 Multiplication by Shifting Bits|Chapter 7 — 7.2.2 Multiplication by Shifting Bits]] (book page 15)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- [[PostgreSQL Bitwise Operations]]
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **SHL** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

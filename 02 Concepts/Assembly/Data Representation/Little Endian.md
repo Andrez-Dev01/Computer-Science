@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **Little Endian**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -16,20 +16,24 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[Arrays]]
 - [[Extended Precision Arithmetic]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 3 - Assembly Language Fundamentals#Variables and Data|Chapter 3 — Variables and Data]]
+- [[Chapter 3 - Assembly Language Fundamentals#3.4.11 Little-Endian Order|Chapter 3 — 3.4.11 Little-Endian Order]] (book page 33)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **Little Endian** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

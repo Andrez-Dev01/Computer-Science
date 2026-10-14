@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **C Calling Convention**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -16,20 +16,27 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[Procedure Parameters]]
 - [[ESP]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 8 - Advanced Procedures#Calling Conventions|Chapter 8 — Calling Conventions]]
+- [[Chapter 8 - Advanced Procedures#8.2.4 32-Bit Calling Conventions|Chapter 8 — 8.2.4 32-Bit Calling Conventions]] (book page 8)
+- [[Chapter 8 - Advanced Procedures#The C Calling Convention|Chapter 8 — The C Calling Convention]] (book page 9)
+- [[Chapter 8 - Advanced Procedures#STDCALL Calling Convention|Chapter 8 — STDCALL Calling Convention]] (book page 9)
+- [[Chapter 8 - Advanced Procedures#8.2.10 The Microsoft x64 Calling Convention|Chapter 8 — 8.2.10 The Microsoft x64 Calling Convention]] (book page 19)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **C Calling Convention** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

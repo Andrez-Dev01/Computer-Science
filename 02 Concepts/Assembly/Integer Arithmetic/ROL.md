@@ -8,27 +8,36 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **ROL**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
 - [[ROR]]
 - [[Bit Shifting]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 7 - Integer Arithmetic#Shift and Rotate|Chapter 7 — Shift and Rotate]]
+- [[Chapter 7 - Integer Arithmetic#Multiple Rotations|Chapter 7 — Multiple Rotations]] (book page 8)
+- [[Chapter 7 - Integer Arithmetic#7.1.6 ROR Instruction|Chapter 7 — 7.1.6 ROR Instruction]] (book page 9)
+- [[Chapter 7 - Integer Arithmetic#7.1.7 RCL and RCR Instructions|Chapter 7 — 7.1.7 RCL and RCR Instructions]] (book page 10)
+- [[Chapter 7 - Integer Arithmetic#RCR Instruction|Chapter 7 — RCR Instruction]] (book page 11)
+- [[Chapter 8 - Advanced Procedures#Errors Detected by MASM|Chapter 8 — Errors Detected by MASM]] (book page 34)
+- [[Chapter 8 - Advanced Procedures#Errors Not Detected by MASM|Chapter 8 — Errors Not Detected by MASM]] (book page 35)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **ROL** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

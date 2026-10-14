@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **Bit Shifting**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -18,20 +18,52 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[SAR]]
 - [[Carry Flag]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 7 - Integer Arithmetic#Shift and Rotate|Chapter 7 — Shift and Rotate]]
+- [[Chapter 7 - Integer Arithmetic#7.1 Shift and Rotate Instructions|Chapter 7 — 7.1 Shift and Rotate Instructions]] (book page 2)
+- [[Chapter 7 - Integer Arithmetic#7.1.1 Logical Shifts and Arithmetic Shifts|Chapter 7 — 7.1.1 Logical Shifts and Arithmetic Shifts]] (book page 3)
+- [[Chapter 7 - Integer Arithmetic#7.2 Shift and Rotate Applications|Chapter 7 — 7.2 Shift and Rotate Applications]] (book page 14)
+- [[Chapter 7 - Integer Arithmetic#7.2.3 Displaying Binary Bits|Chapter 7 — 7.2.3 Displaying Binary Bits]] (book page 16)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
 
-## My Example
+### C++
+```cpp
+int doubled = x << 1;
+```
 
-_Add your own small example here._
+### Python
+```python
+doubled = x << 1
+```
+
+### Go
+```go
+doubled := x << 1
+```
+
+### Java
+```java
+int doubled = x << 1;
+```
+
+### PostgreSQL
+```sql
+SELECT 5 << 1;
+```
+
+
+## Database Connections
+
+- [[PostgreSQL Bitwise Operations]]
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **Bit Shifting** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

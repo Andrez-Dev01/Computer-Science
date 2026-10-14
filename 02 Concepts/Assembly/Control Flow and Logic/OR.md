@@ -8,28 +8,57 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **OR**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
 - [[Boolean Logic]]
 - [[Bit Masking]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 1 - Basic Concepts#Boolean Logic|Chapter 1 — Boolean Logic]]
-- [[Chapter 6 - Conditional Processing#Boolean Instructions|Chapter 6 — Boolean Instructions]]
+- Add a chapter connection when this concept appears.
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
 
-## My Example
+### C++
+```cpp
+int result = value | 0x04;
+```
 
-_Add your own small example here._
+### Python
+```python
+result = value | 0x04
+```
+
+### Go
+```go
+result := value | 0x04
+```
+
+### Java
+```java
+int result = value | 0x04;
+```
+
+### PostgreSQL
+```sql
+SELECT 8 | 4;
+```
+
+
+## Database Connections
+
+- [[SQL Boolean Logic]]
+- [[PostgreSQL Bitwise Operations]]
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **OR** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

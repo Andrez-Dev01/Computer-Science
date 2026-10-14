@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **Machine Language**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -16,20 +16,26 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[Assembler]]
 - [[CPU]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 1 - Basic Concepts#Assembly Foundations|Chapter 1 — Assembly Foundations]]
+- [[Chapter 1 - Basic Concepts#How Does Assembly Language Relate to Machine Language?|Chapter 1 — How Does Assembly Language Relate to Machine Language?]] (book page 5)
+- [[Chapter 1 - Basic Concepts#1.2 Virtual Machine Concept|Chapter 1 — 1.2 Virtual Machine Concept]] (book page 10)
+- [[Chapter 1 - Basic Concepts#Virtual Machines|Chapter 1 — Virtual Machines]] (book page 11)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **Machine Language** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

@@ -1,12 +1,12 @@
 # Projects Index
 
-Use project folders for:
+For each project, record:
 - scope
 - milestones
-- architecture
-- implementation notes
+- design decisions
+- code problems
 - testing
-- things you struggled with
+- database decisions
 - lessons learned
 
-When a project teaches you a reusable CS idea, link back to a concept note.
+When a project teaches a reusable idea, link it back to `02 Concepts`.

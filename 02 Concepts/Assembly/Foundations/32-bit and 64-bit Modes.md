@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **32-bit and 64-bit Modes**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -16,20 +16,30 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[Registers]]
 - [[Microsoft x64 Calling Convention]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 2 - x86 Processor Architecture#CPU Design|Chapter 2 — CPU Design]]
+- [[Chapter 2 - x86 Processor Architecture#2.2 32-Bit x86 Processors|Chapter 2 — 2.2 32-Bit x86 Processors]] (book page 7)
+- [[Chapter 2 - x86 Processor Architecture#2.3 64-Bit x86-64 Processors|Chapter 2 — 2.3 64-Bit x86-64 Processors]] (book page 16)
+- [[Chapter 2 - x86 Processor Architecture#2.3.1 64-Bit Operation Modes|Chapter 2 — 2.3.1 64-Bit Operation Modes]] (book page 17)
+- [[Chapter 2 - x86 Processor Architecture#2.3.2 Basic 64-Bit Execution Environment|Chapter 2 — 2.3.2 Basic 64-Bit Execution Environment]] (book page 18)
+- [[Chapter 3 - Assembly Language Fundamentals#3.6 Introducing 64-Bit Programming|Chapter 3 — 3.6 Introducing 64-Bit Programming]] (book page 42)
+- [[Chapter 4 - Data Transfers Addressing and Arithmetic#4.6 64-Bit Programming|Chapter 4 — 4.6 64-Bit Programming]] (book page 43)
+- [[Chapter 6 - Conditional Processing#6.1.10 Boolean Instructions in 64-Bit Mode|Chapter 6 — 6.1.10 Boolean Instructions in 64-Bit Mode]] (book page 15)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **32-bit and 64-bit Modes** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

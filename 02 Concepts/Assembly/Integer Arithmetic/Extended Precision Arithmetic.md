@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **Extended Precision Arithmetic**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -19,20 +19,28 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[SHRD]]
 - [[Little Endian]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 7 - Integer Arithmetic#Extended Arithmetic|Chapter 7 — Extended Arithmetic]]
+- [[Chapter 5 - Procedures#ReadChar|Chapter 5 — ReadChar]] (book page 32)
+- [[Chapter 7 - Integer Arithmetic#7.2.1 Shifting Multiple Doublewords|Chapter 7 — 7.2.1 Shifting Multiple Doublewords]] (book page 14)
+- [[Chapter 7 - Integer Arithmetic#7.4.1 ADC Instruction|Chapter 7 — 7.4.1 ADC Instruction]] (book page 36)
+- [[Chapter 7 - Integer Arithmetic#7.4.2 Extended Addition Example|Chapter 7 — 7.4.2 Extended Addition Example]] (book page 36)
+- [[Chapter 7 - Integer Arithmetic#7.4.3 SBB Instruction|Chapter 7 — 7.4.3 SBB Instruction]] (book page 37)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **Extended Precision Arithmetic** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

@@ -1,7 +1,6 @@
 # Databases Index
 
-This subject folder is ready for future reusable concept notes.
+Use this folder for reusable Databases knowledge.
 
-Use the same pattern:
-
-**Course note → concept note → connected concepts**
+Follow the same method:
+**course/lesson note → concept page → related concepts → projects**

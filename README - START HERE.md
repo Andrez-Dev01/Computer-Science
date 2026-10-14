@@ -1,19 +1,27 @@
-# CS Obsidian Vault — Start Here
+# CS Obsidian Book-Flow Vault
 
-## The rule
+This version is designed around how you said you want to study:
 
-- **Chapter note = where I learned it**
-- **Concept note = what it means**
-- **Links = how they connect**
+**Read the chapter note just like the book.**
 
-Inside a chapter note, use:
+Each chapter file:
+- follows the book's section order
+- includes the book page number
+- links each section to reusable concept pages
+- keeps a place for your own notes
+- points to examples when a concept has them
 
-`[[Concept Name#^what-is-it|Concept Name]]`
+Concept pages:
+- have a small `^what-is-it` hover-preview block
+- connect back to chapter sections
+- include C++, Python, Go examples where useful
+- include Java/JVM because the course discusses it
+- include PostgreSQL/SQL connections where the concept is actually useful
 
-With **Page Preview** enabled, hover the link to preview only the concept's **What is it?** block.
+Start with:
 
-Turn it on in:
+`00 Home/Home.md`
 
-**Settings → Core plugins → Page preview → ON**
+Enable:
 
-Start with `00 Home/Home.md`.
+**Settings → Core plugins → Page preview**

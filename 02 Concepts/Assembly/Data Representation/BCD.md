@@ -8,28 +8,37 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **BCD**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
 - [[ASCII Decimal Arithmetic]]
 - [[Packed Decimal Arithmetic]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 1 - Basic Concepts#Data Representation|Chapter 1 — Data Representation]]
-- [[Chapter 7 - Integer Arithmetic#Decimal Arithmetic|Chapter 7 — Decimal Arithmetic]]
+- [[Chapter 1 - Basic Concepts#1.3.9 Binary-Coded Decimal (BCD) Numbers|Chapter 1 — 1.3.9 Binary-Coded Decimal (BCD) Numbers]] (book page 33)
+- [[Chapter 1 - Basic Concepts#Unpacked BCD|Chapter 1 — Unpacked BCD]] (book page 34)
+- [[Chapter 1 - Basic Concepts#Packed BCD|Chapter 1 — Packed BCD]] (book page 34)
+- [[Chapter 3 - Assembly Language Fundamentals#3.4.8 Defining Packed BCD (TBYTE) Data|Chapter 3 — 3.4.8 Defining Packed BCD (TBYTE) Data]] (book page 30)
+- [[Chapter 7 - Integer Arithmetic#7.5 ASCII and Unpacked Decimal Arithmetic|Chapter 7 — 7.5 ASCII and Unpacked Decimal Arithmetic]] (book page 38)
+- [[Chapter 7 - Integer Arithmetic#ASCII Decimal and Unpacked Decimal|Chapter 7 — ASCII Decimal and Unpacked Decimal]] (book page 39)
+- [[Chapter 7 - Integer Arithmetic#7.6 Packed Decimal Arithmetic|Chapter 7 — 7.6 Packed Decimal Arithmetic]] (book page 43)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **BCD** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

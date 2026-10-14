@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **Data Segment**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -16,20 +16,24 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[Variables]]
 - [[Memory]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 3 - Assembly Language Fundamentals#Program Structure|Chapter 3 — Program Structure]]
+- [[Chapter 3 - Assembly Language Fundamentals#Defining Program Segments|Chapter 3 — Defining Program Segments]] (book page 9)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **Data Segment** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

@@ -8,27 +8,37 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **EQU**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
 - [[Constants]]
 - [[Directives]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 3 - Assembly Language Fundamentals#Assembler Tools|Chapter 3 — Assembler Tools]]
+- [[Chapter 1 - Basic Concepts#Equivalents.|Chapter 1 — Equivalents.]] (book page 21)
+- [[Chapter 3 - Assembly Language Fundamentals#3.5 Symbolic Constants|Chapter 3 — 3.5 Symbolic Constants]] (book page 35)
+- [[Chapter 3 - Assembly Language Fundamentals#3.5.1 Equal-Sign Directive|Chapter 3 — 3.5.1 Equal-Sign Directive]] (book page 36)
+- [[Chapter 3 - Assembly Language Fundamentals#3.5.3 EQU Directive|Chapter 3 — 3.5.3 EQU Directive]] (book page 39)
+- [[Chapter 3 - Assembly Language Fundamentals#3.5.4 TEXTEQU Directive|Chapter 3 — 3.5.4 TEXTEQU Directive]] (book page 41)
+- [[Chapter 6 - Conditional Processing#Equality Comparisons|Chapter 6 — Equality Comparisons]] (book page 19)
+- [[Chapter 6 - Conditional Processing#Sequential Search of an Array|Chapter 6 — Sequential Search of an Array]] (book page 25)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **EQU** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

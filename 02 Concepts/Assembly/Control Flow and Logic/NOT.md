@@ -8,28 +8,32 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **NOT**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
 - [[Boolean Logic]]
 - [[Bit Masking]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 1 - Basic Concepts#Boolean Logic|Chapter 1 — Boolean Logic]]
-- [[Chapter 6 - Conditional Processing#Boolean Instructions|Chapter 6 — Boolean Instructions]]
+- Add a chapter connection when this concept appears.
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- [[SQL Boolean Logic]]
+- [[PostgreSQL Bitwise Operations]]
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **NOT** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

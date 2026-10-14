@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **Procedures**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -17,20 +17,65 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[Procedure Parameters]]
 - [[Stack Frame]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 5 - Procedures#Procedures|Chapter 5 — Procedures]]
+- [[Chapter 5 - Procedures#5.2 Defining and Using Procedures|Chapter 5 — 5.2 Defining and Using Procedures]] (book page 8)
+- [[Chapter 5 - Procedures#Defining a Procedure|Chapter 5 — Defining a Procedure]] (book page 9)
+- [[Chapter 5 - Procedures#Labels in Procedures|Chapter 5 — Labels in Procedures]] (book page 9)
+- [[Chapter 5 - Procedures#Example: SumOf Three Integers|Chapter 5 — Example: SumOf Three Integers]] (book page 10)
+- [[Chapter 5 - Procedures#Documenting Procedures|Chapter 5 — Documenting Procedures]] (book page 10)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
 
-## My Example
+### MASM
+```asm
+MyProc PROC
+    ; work
+    ret
+MyProc ENDP
+```
 
-_Add your own small example here._
+### C++
+```cpp
+int add(int a, int b) { return a + b; }
+```
+
+### Python
+```python
+def add(a, b):
+    return a + b
+```
+
+### Go
+```go
+func add(a, b int) int { return a + b }
+```
+
+### Java
+```java
+static int add(int a, int b) { return a + b; }
+```
+
+### PostgreSQL
+```sql
+CREATE FUNCTION add_two(a int, b int)
+RETURNS int
+LANGUAGE sql
+AS $$ SELECT a + b $$;
+```
+
+
+## Database Connections
+
+- [[SQL Functions and Procedures]]
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **Procedures** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

@@ -8,7 +8,7 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **INVOKE**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
@@ -17,20 +17,28 @@ This concept is part of the machine-level model you are building in Assembly. Ad
 - [[PROC Directive]]
 - [[Calling Conventions]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 8 - Advanced Procedures#Advanced MASM Procedures|Chapter 8 — Advanced MASM Procedures]]
+- [[Chapter 8 - Advanced Procedures#8.4 INVOKE, ADDR, PROC, and PROTO|Chapter 8 — 8.4 INVOKE, ADDR, PROC, and PROTO]] (book page 24)
+- [[Chapter 8 - Advanced Procedures#8.4.1 INVOKE Directive|Chapter 8 — 8.4.1 INVOKE Directive]] (book page 25)
+- [[Chapter 8 - Advanced Procedures#Specifying the Parameter Passing Protocol|Chapter 8 — Specifying the Parameter Passing Protocol]] (book page 32)
+- [[Chapter 8 - Advanced Procedures#8.4.4 PROTO Directive|Chapter 8 — 8.4.4 PROTO Directive]] (book page 32)
+- [[Chapter 8 - Advanced Procedures#8.5.6 Creating the Modules Using INVOKE and PROTO|Chapter 8 — 8.5.6 Creating the Modules Using INVOKE and PROTO]] (book page 47)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **INVOKE** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?

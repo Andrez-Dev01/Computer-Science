@@ -8,27 +8,43 @@
 
 ## Why it matters
 
-This concept is part of the machine-level model you are building in Assembly. Add your own explanation here as your understanding grows.
+This is reusable knowledge. When another chapter teaches you more about **Two's Complement**, update this same page instead of making a duplicate.
 
 ## Connected Concepts
 
 - [[Signed Integers]]
 - [[Sign Flag]]
 
-## Chapter Connections
+## Chapter Sections That Use This
 
-- [[Chapter 1 - Basic Concepts#Data Representation|Chapter 1 — Data Representation]]
+- [[Chapter 1 - Basic Concepts#Unsigned Binary Integers|Chapter 1 — Unsigned Binary Integers]] (book page 15)
+- [[Chapter 1 - Basic Concepts#Converting Between Unsigned Binary and Decimal|Chapter 1 — Converting Between Unsigned Binary and Decimal]] (book page 16)
+- [[Chapter 1 - Basic Concepts#Translating Unsigned Decimal Integers to Binary|Chapter 1 — Translating Unsigned Decimal Integers to Binary]] (book page 17)
+- [[Chapter 1 - Basic Concepts#Converting Between Unsigned Hexadecimal and Decimal|Chapter 1 — Converting Between Unsigned Hexadecimal and Decimal]] (book page 21)
+- [[Chapter 1 - Basic Concepts#Converting Unsigned Decimal to Hexadecimal|Chapter 1 — Converting Unsigned Decimal to Hexadecimal]] (book page 23)
+- [[Chapter 1 - Basic Concepts#1.3.6 Signed Binary Integers|Chapter 1 — 1.3.6 Signed Binary Integers]] (book page 24)
+- [[Chapter 1 - Basic Concepts#Two’s-Complement Representation|Chapter 1 — Two’s-Complement Representation]] (book page 24)
+- [[Chapter 1 - Basic Concepts#Hexadecimal Two’s Complement|Chapter 1 — Hexadecimal Two’s Complement]] (book page 25)
+- [[Chapter 1 - Basic Concepts#Converting Signed Binary to Decimal|Chapter 1 — Converting Signed Binary to Decimal]] (book page 25)
+- [[Chapter 1 - Basic Concepts#Converting Signed Decimal to Binary|Chapter 1 — Converting Signed Decimal to Binary]] (book page 26)
+- [[Chapter 1 - Basic Concepts#Converting Signed Decimal to Hexadecimal|Chapter 1 — Converting Signed Decimal to Hexadecimal]] (book page 26)
+- [[Chapter 1 - Basic Concepts#Converting Signed Hexadecimal to Decimal|Chapter 1 — Converting Signed Hexadecimal to Decimal]] (book page 26)
+- [[Chapter 1 - Basic Concepts#Maximum and Minimum Values|Chapter 1 — Maximum and Minimum Values]] (book page 27)
 
-## Language Connections
+## Cross-Language Examples
 
-_Add a link here when you compare this idea with C++, Python, Go, JavaScript, or Java/JVM._
+_Add your own Assembly example here as you learn._
 
-## My Example
+## Database Connections
 
-_Add your own small example here._
+- No direct database connection added yet.
+
+## My Own Example
+
+_Write an example from class, homework, or a project._
 
 ## Self-Test
 
 - Can I explain **Two's Complement** without looking?
-- Can I give one example?
-- Can I connect it to another concept?
+- Can I show one example?
+- Can I explain one connection to another concept?
