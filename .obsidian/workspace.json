@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Courses/Assembly/Chapter 8 - Advanced Procedures.md",
+                "file": "README - START HERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 8 - Advanced Procedures"
+              "title": "README - START HERE"
             }
           }
         ],
@@ -241,8 +241,8 @@
   },
   "active": "15e0a4beff148a4e",
   "lastOpenFiles": [
-    "01 Courses/Assembly/Chapter 1 Basic Concepts.md",
     "01 Courses/Assembly/Chapter 8 - Advanced Procedures.md",
+    "01 Courses/Assembly/Chapter 1 Basic Concepts.md",
     "02 Concepts/Assembly/Machine Language.md",
     "00 Home/Untitled.md",
     "02 Concepts/Assembly/Assembly Language Introduction.md",
