@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/Assembly/Machine Language.md",
+                "file": "01 Courses/Assembly/Chapter 8 - Advanced Procedures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Language"
+              "title": "Chapter 8 - Advanced Procedures"
             }
           }
         ],
@@ -239,11 +239,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "d3e9d0127be62d34",
+  "active": "15e0a4beff148a4e",
   "lastOpenFiles": [
-    "00 Home/Untitled.md",
     "01 Courses/Assembly/Chapter 1 Basic Concepts.md",
+    "01 Courses/Assembly/Chapter 8 - Advanced Procedures.md",
     "02 Concepts/Assembly/Machine Language.md",
+    "00 Home/Untitled.md",
     "02 Concepts/Assembly/Assembly Language Introduction.md",
     "().md",
     "02 Concepts/Assembly/Foundation",
@@ -285,7 +286,6 @@
     "Home/Assembly Home.md",
     "Chapter 01 - Basic Concepts/Concepts/Binary and Hexadecimal.md",
     "Chapter 03 - Assembly Language Fundamentals/Chapter 03 Notes.md",
-    "Chapter 02 - x86 Processor Architecture/Chapter 02 Notes.md",
-    "Chapter 01 - Basic Concepts/Chapter 01 Notes.md"
+    "Chapter 02 - x86 Processor Architecture/Chapter 02 Notes.md"
   ]
 }
