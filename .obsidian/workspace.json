@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README - START HERE.md",
-                "mode": "source",
+                "file": "02 Concepts/Assembly/Control Flow and Logic/JMP.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README - START HERE"
+              "title": "JMP"
             }
           }
         ],
@@ -241,7 +241,19 @@
   },
   "active": "15e0a4beff148a4e",
   "lastOpenFiles": [
+    "02 Concepts/Assembly/Control Flow and Logic/AND.md",
+    "03 Languages/C++/C++ Assembly Connections.md",
+    "04 Projects/Projects Index.md",
+    "07 Templates/Project Learning Log.md",
+    "07 Templates/Problem Solving Template.md",
+    "07 Templates/Concept Note Template.md",
+    "07 Templates/Chapter Note Template.md",
+    "02 Concepts/Assembly/Registers and Flags/Carry Flag.md",
+    "02 Concepts/Assembly/Assembly Concepts Index.md",
+    "01 Courses/Computer Architecture/Computer Architecture Course Index.md",
+    "01 Courses/Data Structures/Data Structures Course Index.md",
     "01 Courses/Assembly/Chapter 8 - Advanced Procedures.md",
+    "README - START HERE.md",
     "01 Courses/Assembly/Chapter 1 Basic Concepts.md",
     "02 Concepts/Assembly/Machine Language.md",
     "00 Home/Untitled.md",
@@ -265,27 +277,15 @@
     "Untitled 1.md",
     "Chapter 1 Basic Concepts.md",
     "NotebookLM Files/Chapter 1 Basic Concepts Study Guide.md",
-    "NotebookLM Files/Chapter 3 Assembly Language Fundamentals Desk Reference.md",
     "Chapter 01 - Basic Concepts/Visuals/00-Assembly-Knowledge-Map.png",
-    "Chapter 02 - x86 Processor Architecture/Examples/00-Worked-Example-Checklist.md",
     "Chapter 02 - x86 Processor Architecture/Visuals/04-CPU-Instruction-Cycle.png",
     "Chapter 02 - x86 Processor Architecture/Visuals/01-Virtual-Machine-Layers.png",
     "Chapter 01 - Basic Concepts/Visuals/02-Binary-Hex-Nibbles.png",
     "Chapter 01 - Basic Concepts/Visuals/03-Twos-Complement-8bit.png",
-    "Chapter 01 - Basic Concepts/Examples/00-Worked-Example-Checklist.md",
-    "Chapter 04 - Data Transfers, Addressing, and Arithmetic/Examples/00-Worked-Example-Checklist.md",
-    "Chapter 03 - Assembly Language Fundamentals/Examples/00-Worked-Example-Checklist.md",
     "Chapter 03 - Assembly Language Fundamentals/Visuals/08-Assemble-Link-Execute.png",
     "Chapter 04 - Data Transfers, Addressing, and Arithmetic/Visuals/05-Register-Overlap.png",
     "Chapter 04 - Data Transfers, Addressing, and Arithmetic/Visuals/06-Little-Endian.png",
     "Chapter 02 - x86 Processor Architecture/Visuals/06-Little-Endian.png",
-    "Chapter 05 - Procedures/Visuals/05-Register-Overlap.png",
-    "Chapter 04 - Data Transfers, Addressing, and Arithmetic/Concepts/Addressing Modes.md",
-    "Chapter 03 - Assembly Language Fundamentals/Concepts/Assembly - Statement Anatomy.md",
-    "Chapter 03 - Assembly Language Fundamentals/Concepts/Assembly - Build Cycle.md",
-    "Home/Assembly Home.md",
-    "Chapter 01 - Basic Concepts/Concepts/Binary and Hexadecimal.md",
-    "Chapter 03 - Assembly Language Fundamentals/Chapter 03 Notes.md",
-    "Chapter 02 - x86 Processor Architecture/Chapter 02 Notes.md"
+    "Chapter 05 - Procedures/Visuals/05-Register-Overlap.png"
   ]
 }
