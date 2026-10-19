@@ -1,60 +1,36 @@
-# Obsidian personal settings, cache, workspace state, and system files
-.obsidian/
-.trash/
-.DS_Store
-Thumbs.db
-*.swp
-*.swo
-*~
+# Local/private materials should NEVER be published.
+Private/
+private/
+private-assets/
+Private Assets/
+Paid Materials/
+paid-materials/
 
-# Do not publish local-only assets or paid course resources
-**/99 - PRIVATE - LOCAL ONLY/
-**/Private/
-**/private/
-**/Paid Materials/
-**/Textbook Scans/
-**/Course Downloads/
-
-# Default-deny paid/source documents and archives, including outside the asset folder
+# Restricted documents are excluded by default; review all other file types.
 *.pdf
 *.epub
 *.mobi
 *.azw
 *.azw3
-*.djvu
 *.doc
 *.docx
 *.ppt
 *.pptx
-*.xls
-*.xlsx
-*.zip
-*.7z
-*.rar
+*.key
 
-# Image files are excluded everywhere EXCEPT the intentional public-assets folder.
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.webp
-*.svg
-!90 - Assets/00 - PUBLIC - ORIGINAL DIAGRAMS/**
-
-# Secrets/credentials and local development environments
+# Secrets/temporary files
 .env
 .env.*
 !.env.example
 *.pem
 *.key
-*.p12
-*.pfx
-id_rsa*
-id_ed25519*
-credentials.json
-secrets.json
-__pycache__/
-.venv/
-venv/
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
 
-# Project source and repositories belong in the SEPARATE project vault/workspaces.
+# Local Obsidian device-specific workspace, if created
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# NOTE: ignored files already committed remain tracked.
