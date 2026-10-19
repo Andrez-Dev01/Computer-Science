@@ -1,36 +1,38 @@
-# Local/private materials should NEVER be published.
-Private/
-private/
-private-assets/
-Private Assets/
-Paid Materials/
-paid-materials/
+# Personal Obsidian local settings (usually machine-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/
+.trash/
 
-# Restricted documents are excluded by default; review all other file types.
+# Keep restricted or private source materials LOCAL, out of the public repo
+_local-only/
+_private/
+**/private-assets/
+
+# Do not upload book/course scans, licensed ebooks, or exported material
 *.pdf
 *.epub
 *.mobi
 *.azw
 *.azw3
-*.doc
-*.docx
+*.djvu
 *.ppt
 *.pptx
 *.key
 
-# Secrets/temporary files
+# Secrets, authentication, personal metadata
 .env
 .env.*
-!.env.example
 *.pem
 *.key
+*.p12
+*.pfx
+*.sqlite
+*.db
 .DS_Store
 Thumbs.db
-*.swp
-*.tmp
 
-# Local Obsidian device-specific workspace, if created
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-
-# NOTE: ignored files already committed remain tracked.
+# NOTE: Git ignores only untracked files. Content already committed must be
+# removed from Git history separately, and paid material pasted into .md files
+# is NOT protected by these patterns. Review all files before public push.

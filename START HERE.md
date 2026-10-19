@@ -1,55 +1,64 @@
-# START HERE — My CS Notes
+# Start Here
 
-Welcome! **One place for classes, a few subject folders for everything else.**
+**This vault is for learning computer science.** You do not need to maintain indexes, dashboards, or a different note for every concept.
 
-## Where does a note go?
+## Where to put a note
 
-- **In a college class?** Put it in `00 - Courses / Class Name / Chapter XX`. All college courses belong in **one Courses folder**.
-- **Learning on your own?** Put it under its subject (Python, DSA, AI, DevOps, etc.).
-- **Need a cheat sheet for a project?** Make an optional `REF - Topic Name.md` in the relevant subject. It can link to class notes and independent notes. **Don't duplicate a whole lesson.**
+- **Taking a class?** Open `Courses` → your class → its chapter. Each **textbook section is one note**. Its subsections are **headings inside that note**, not separate files.
+- **Learning on your own?** Open the relevant subject folder (Python, DSA, Software Engineering, AI, DevOps, etc.) and make one note for the topic or lesson.
+- **Programming projects?** Keep the full projects in your **separate Projects vault**. In these learning notes, use short code examples and optionally mention the real source-file path.
 
-## Do this while reading a textbook
+## Create your first textbook section note
 
-1. Open your class folder and the chapter you are studying.
-2. Create a note named `4.2 - Loops and Iteration (C++).md` (use the **real** section number and a searchable title).
-3. Open the note and insert template **01 - Course Section**.
-4. Read a little. Fill in a heading: definition, important words, how it works, or example.
-5. Try the code in your editor. Write down what happened and link to its location in the note.
-6. Continue reading. **If the section introduces a new topic, copy the "Topic" headings within the same note.**
-7. Return whenever you need it. No required review schedule or second round of organizing.
+1. Open `Courses/Assembly Language/Chapter 02` (or the chapter you are studying).
+2. Create a new note. Name it **exactly by its real section**: `2.2 - Your Section Title`. (Do not assume the demo section titles are from your book.)
+3. In **Settings → Core plugins**, enable **Templates**. In **Settings → Templates**, set the folder to `Templates`.
+4. Open your new note, run **Templates: Insert template** from the Command palette, and select `Textbook Section`.
+5. Change the first `##` heading to your textbook's first actual subsection, such as `2.2.1 — First Subsection`.
+6. Read a little, write your explanation, add vocabulary or code where it helps, and create the next `##` subsection heading when you reach it.
 
-## Do this when learning independently
+**You do not need to fill in all the suggested blocks for every subsection.** Add what the material actually needs. Your textbook's subsections are the organization, not a checklist of seven identical fields.
 
-1. Go to the subject folder (e.g., `01 - Programming Languages / Python`).
-2. Create `For Loops (Python).md` and insert **02 - Independent Topic**.
-3. Use the *same familiar headings*. Put documentation links beside important facts or code.
-4. Try things in your code editor and record the result.
+## How headings work in Obsidian
 
-## What are the 3 templates?
-
-| Template | When to use it |
+| Markdown you type | What it means |
 | --- | --- |
-| `01 - Course Section` | A single college textbook/lecture section. Multiple topics can live in this one note. |
-| `02 - Independent Topic` | Learning from videos, docs, research, or practice without a class. |
-| `03 - Quick Reference` | OPTIONAL one-page cheat sheet to find key information quickly when coding. |
+| `# 2.2 — CPU Registers` | The section's big title (one per file) |
+| `## 2.2.1 — What are registers?` | A textbook subsection **inside** that file |
+| `### Worked example` | Smaller detail inside the current subsection |
+| `**important phrase**` | Bold text |
+| Three backticks, `cpp`, your code, then three closing backticks | A C++ code block (use `python`, `go`, or `asm` for other languages) |
+| `> [!warning] Common mistake` | A visibly distinct callout box |
 
-**You do not need to create quick references for every topic.** The course section and independent topic notes already work as references.
+Under **Settings → Core plugins**, ensure **Outline** is enabled, then open the Outline panel in the sidebar. Click a subsection to jump directly to it **without creating another file**.
 
-## Turn on templates in Obsidian (one time)
+For a clean writing experience, try **Settings → Editor → Default editing mode → Live Preview**.
 
-1. Open Obsidian → **Open folder as vault** → select this `CS-Notes-Simple` folder.
-2. Open **Settings → Core plugins**, and enable **Templates**.
-3. Under **Settings → Templates**, choose folder `90 - Templates`.
-4. Make or open a note, use Command Palette (`Ctrl+P`, or `Cmd+P` on macOS), choose **Templates: Insert template**, and pick the template.
+## What the visual blocks mean
 
-You can simply copy-paste the headings instead if you don't want to set up Templates yet.
+> [!info] Key words
+> A definition or important term, only if the section contains vocabulary.
 
-## Searching later
+> [!example] Why this example matters
+> An explanation of what a short code snippet demonstrates. Put runnable code in a normal fenced code block beneath it.
 
-Use **Ctrl+Shift+F** (desktop search) to look up terms like `for loop`, `register`, `segmentation fault`, or `docker image`. Note titles and topic headings are descriptive so the results make sense.
+> [!warning] Common mistake
+> A bug, misconception, or unsafe assumption and how to fix it.
 
-## Private versus public
+> [!tip] My experiment
+> What you changed in your editor, what you predicted, and what happened.
 
-This learning vault is intended for **public GitHub**. Write explanations in your own words. Do not commit paid textbook pages, assignment answer keys, account secrets, private research, or other restricted content. `.gitignore` is a convenience, **not a publication safety guarantee**. Read `PUBLIC GITHUB CHECKLIST.md` before uploading.
+These callouts are built into Obsidian—**no extra plugins or styling files are required**.
 
-Your full applications and project planning belong in the **separate Projects Obsidian vault**, not here.
+## Two templates only
+
+- `Templates/Textbook Section.md` — one section note with as many `##` textbook subsections as you need.
+- `Templates/Independent Topic.md` — one note for a self-studied topic, tutorial, or technical concept.
+
+Look at `Courses/Assembly Language/Chapter 02/EXAMPLE - 2.2 CPU Registers.md` for a complete, visually distinct example. **The section number and headings in the demo are illustrative, not claimed to match your textbook.**
+
+## Public GitHub reminder
+
+The learning vault is intended to be **public**. Write in your own words, link to sources where useful, and check everything before publishing. Never upload paid textbook pages, restricted class materials, passwords, or private assets. `.gitignore` only blocks *untracked* matching files; it does not erase files already committed or content pasted into Markdown. Keep your full programming projects in their **separate vault**.
+
+**Git syncing has not been configured.** This is the starting vault only; publishing and mobile syncing are separate setup steps.
