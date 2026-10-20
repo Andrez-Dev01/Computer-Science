@@ -149,7 +149,7 @@
   "colorIconOnly": false,
   "dateFormat": "MMM D, YYYY",
   "timeFormat": "h:mm a",
-  "calendarTemplateFolder": "",
+  "calendarTemplateFolder": "Templates",
   "templateEngine": "automatic",
   "folderTemplates": {},
   "showFolderTemplateIcons": true,
