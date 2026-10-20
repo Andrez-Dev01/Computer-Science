@@ -11,14 +11,10 @@
             "id": "8c795e938e90e20c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "START HERE.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "START HERE"
+              "title": "New tab"
             }
           }
         ]
@@ -224,10 +220,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "8c795e938e90e20c",
+  "active": "d3e9d0127be62d34",
   "lastOpenFiles": [
-    "README - START HERE.md",
     "START HERE.md",
+    "README - START HERE.md",
     "Templates/Textbook Section.md",
     "conflict-files-obsidian-git.md",
     "99 Archive/Archive Index.md",
