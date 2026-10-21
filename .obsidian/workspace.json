@@ -89,8 +89,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,21 +207,23 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "cf16ff4ad1b22269",
+  "active": "63dc7d786ebb67a2",
   "lastOpenFiles": [
+    "Courses/Assembly/Chapter",
     "Exam Prep/Exam Prep.md",
+    "Courses/Assembly/Assembly Language Programming.md",
+    "README - Setup Guide.md",
+    "CS Dashboard.md",
     "Projects/Projects.md",
     "Projects/Project Template.md",
     "Courses/Assembly/Untitled.md",
-    "Courses/Assembly/Assembly Language Programming.md",
     "Concepts/Concept Index.md",
     "Lecture 01.md",
     "Templates/Assignment Template.md",
-    "README - Setup Guide.md",
-    "CS Dashboard.md",
     "Templates/Lecture Template.md",
     "Templates/Course Template.md",
     "Templates/Study Session Template.md",
@@ -250,7 +251,6 @@
     "07 Templates/Concept Template.md",
     "06 Resources/Infographics/Infographics Index.md",
     "06 Resources/Infographics/06 - Linking Knowledge Network.png",
-    "06 Resources/Assembly Sources.md",
     "Starter-Kit/Visuals/zettelkasten_maturity_2024-11-18.png",
     "Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
     "Starter-Kit/Visuals/banner_books.jpg",

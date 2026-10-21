@@ -52,7 +52,7 @@ tags:
 - [[Concepts/Concept Index]]
 
 ## 📆 Weekly Review
-- **Learned:**
+- **Learned:** 
 - **Need help with:**
 - **Next steps:**
 

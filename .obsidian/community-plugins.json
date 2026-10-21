@@ -5,5 +5,7 @@
   "obsidian-banners",
   "pretty-properties",
   "obsidian-charts",
-  "dataview"
+  "dataview",
+  "smart-lookup",
+  "templater-obsidian"
 ]
