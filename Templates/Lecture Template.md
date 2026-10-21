@@ -17,7 +17,7 @@ tags:
 - **Why it matters:**
 - **Example:**
 
-## 🧑‍🏫 Notes from Class
+## 🧑‍🏫 Notes from Section
 -
 
 ## 💻 Code / Worked Example
